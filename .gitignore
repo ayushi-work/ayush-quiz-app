@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.db-journal
+.vercel
+.env
+node_modules/
+.DS_Store
+.playwright-mcp/
